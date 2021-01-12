@@ -11,6 +11,8 @@
 
 ### Languages and Tools:
 
+### Flutter Apps
+1.Amazon-clone-UI - https://github.com/AkhilMajety/amazon_clone_ui
 
 
 <details>
