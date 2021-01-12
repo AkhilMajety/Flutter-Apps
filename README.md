@@ -17,12 +17,19 @@
 
 ### Flutter Apps
 1.Flutter Amazon-clone-UI -   https://github.com/AkhilMajety/amazon_clone_ui
+
 2.Flutter WhatsApp-clone-UI - https://github.com/AkhilMajety/whatsappclone
+
 3.Flutter World time -        https://github.com/AkhilMajety/world_time
+
 4.Flutter netflix-clone-UI -  https://github.com/AkhilMajety/netflix_clone_ui
+
 5.Flutter speech to text -    https://github.com/AkhilMajety/speech_to_text
+
 6.Flutter quotes -            https://github.com/AkhilMajety/quotes
+
 7.Flutter music player-UI -   https://github.com/AkhilMajety/music_player
+
 8.Flutter brew crew -         https://github.com/AkhilMajety/brew_crew
 
 
